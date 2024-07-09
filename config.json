@@ -1,0 +1,24 @@
+{
+    "app": {
+        "client_id": "qGPufUg5iBf1s57sfXl6gBdGF9JYInBI",
+        "session_id": "7903fc00-be05-465a-8d10-6531fb46143a",
+        "resume": "8fe69a88-0eed-4794-81b2-1b31c3d687ee",
+        "coverletters_id": "6ADA24E8-14F9-481F-9896-BA4E2E6861C1",
+        "coverletters_text": "Kepada HRD Perusahaan,\n\nSaya M. Ferdiansyah, dengan ini mengajukan lamaran untuk posisi Staff IT di perusahaan ini. Saya memiliki pengalaman magang di kantor sekretariat DPRD Kabupaten Lebak.\n\nSaya yakin kemampuan dan pengalaman saya dapat mendukung kebutuhan perusahaan ini. Saya memiliki keahlian dalam Jaringan Komputer,serta pemahaman yang baik tentang topologi jaringan komputer.\n\nSaya sangat antusias untuk berkontribusi dalam perusahaan ini dan siap untuk beradaptasi dengan lingkungan kerja yang baru.\n\nTerlampir CV saya untuk referensi lebih lanjut.\n\nTerima kasih atas perhatian Bapak/Ibu. Saya berharap dapat berkesempatan untuk wawancara."
+    },
+    "headers": {
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Mobile Safari\/537.36",
+        "cookie": "sol_id=47283b89-f423-46bb-8945-692633c690ce;JobseekerSessionId=7903fc00-be05-465a-8d10-6531fb46143a;JobseekerVisitorId=7903fc00-be05-465a-8d10-6531fb46143a;ajs_anonymous_id=bd0913cb64b21cd539169abc39f8170c;_fbp=fb.2.1719935596939.36910713486420503;_hjSessionUser_640499=eyJpZCI6IjJkNDlmNGExLWI4YzctNTU0ZS05ZTdmLTQzZDJmNThkNThhZSIsImNyZWF0ZWQiOjE3MTk5NDA3MjcxNDYsImV4aXN0aW5nIjp0cnVlfQ==;main=V%7C2~P%7Cjobsearch~I%7C6281~SORT%7CKeywordRelevance~OSF%7Cquick&set=1720136492382/V%7C2~P%7Cjobsearch~I%7C6281%2C1203%2C6251%2C1209~SORT%7CListedDate~OSF%7Cquick&set=1719994383163;_gcl_au=1.1.1498528682.1719935596.1043839365.1720143665.1720144347;__cf_bm=1i8oQszb749oG10FYKOVZmPObB9a2g__RKYiM5yPi2I-1720152817-1.0.1.1-CzDadaGNO57KLyK8crXpdpAk_XPqwByxHQFxtKKwIPdWR1lKI.Jh6nOlfaxFW7Qp0sDFhMQHBQefi7wCI8BYww;da_cdt=visid_019074266aae002ed169528c90500006f0057067006e8-sesid_1720152823941;da_sa_candi_sid=1720152823941;_hjSession_640499=eyJpZCI6ImE5ZjA5NWQ5LTM0ZTctNDVkMS05M2YwLTMyYzgyZDUyZWI4YiIsImMiOjE3MjAxNTI4MjU3MjgsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowfQ==;utag_main=v_id:019074266aae002ed169528c90500006f0057067006e8$_sn:7$_se:10%3Bexp-session$_ss:0%3Bexp-session$_st:1720154667290%3Bexp-session$ses_id:1720152823941%3Bexp-session$_pn:4%3Bexp-session$dc_visit:1$dc_event:175%3Bexp-session$dc_region:ap-east-1%3Bexp-session$_prevpage:home%3Bexp-1720156433580;_legacy_auth0.qGPufUg5iBf1s57sfXl6gBdGF9JYInBI.is.authenticated=true;auth0.qGPufUg5iBf1s57sfXl6gBdGF9JYInBI.is.authenticated=true;_dd_s=rum=0&expire=1720153780243"
+    },
+    "searchBy": {
+        "seekSelectAllPages": true,
+        "pageSize": 30,
+        "classification": "6281",
+        "subclassification": "6288,6289,6291,6293,6297,6303,6290",
+        "sortmode": "ListedDate"
+    },
+    "task" : {
+      "refreshJobs" : 120,
+      "refreshAuth": 3000
+    }
+}
